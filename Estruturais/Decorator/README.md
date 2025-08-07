@@ -5,5 +5,7 @@ Imagine que surgiu uma demanda para construção multi-plataforma de notificaç�
 
 A princípio poderíamos pegar o método `Notificacao` e criamos algumas heranças para cada uma das plataformas, porém, teríamos que lidar com um problema.
 
-Heranças são estáticas, não é possível criá-las de maneira dinâmica, ou seja, teríamos que possuir uma classe para CADA COMBINAÇÃO DE REDES, além das específicas, o que traria um trabalhos posterior que cresceria exponencialmente a medida que fossem adicionadas novas rotas de notificação.
+    Heranças são estáticas, não é possível criá-las de maneira dinâmica, ou seja, teríamos que possuir uma classe para CADA COMBINAÇÃO DE REDES, além das específicas, o que traria um trabalhos posterior que cresceria exponencialmente a medida que fossem adicionadas novas rotas de notificação.
 
+## Estrutura
+Dentro 

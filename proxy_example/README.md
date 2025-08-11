@@ -1,5 +1,5 @@
 # Padrão Proxy
-<Flavio Nascimento>
+`@FlavioNascimento99`
 
 #### Introdução
 Padrão Proxy é bem simples, se trata de um Objeto que será intermediador para acesso à outro. Interessante de se implementar em determinados cenários para controle de Segurança, Cache ou _Lazy Loadings_

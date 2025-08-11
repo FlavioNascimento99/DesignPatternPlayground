@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module bridge_example {
-}

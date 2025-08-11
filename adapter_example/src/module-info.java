@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module adapter_example {
-}

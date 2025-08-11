@@ -1,8 +1,0 @@
-/**
- 
- */
-/**
- * 
- */
-module proxy_example {
-}
